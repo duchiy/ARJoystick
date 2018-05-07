@@ -1,0 +1,28 @@
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\bin\Debug\WpfPipeApp.exe.config
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\bin\Debug\WpfPipeApp.exe
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\bin\Debug\WpfPipeApp.pdb
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.csprojResolveAssemblyReference.cache
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\MainWindow.g.cs
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\App.g.cs
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp_MarkupCompile.cache
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp_MarkupCompile.lref
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\MainWindow.baml
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.g.resources
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.Properties.Resources.resources
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.csproj.GenerateResource.Cache
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.exe
+C:\Test Code\Named pipe\CPPNamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.pdb
+C:\Test Code\NamedPipes\WpfPipeApp\bin\Debug\WpfPipeApp.exe.config
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.exe
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.pdb
+C:\Test Code\NamedPipes\WpfPipeApp\bin\Debug\WpfPipeApp.exe
+C:\Test Code\NamedPipes\WpfPipeApp\bin\Debug\WpfPipeApp.pdb
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.csprojResolveAssemblyReference.cache
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\MainWindow.g.cs
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\App.g.cs
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp_MarkupCompile.cache
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp_MarkupCompile.lref
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\MainWindow.baml
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.g.resources
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.Properties.Resources.resources
+C:\Test Code\NamedPipes\WpfPipeApp\obj\Debug\WpfPipeApp.csproj.GenerateResource.Cache

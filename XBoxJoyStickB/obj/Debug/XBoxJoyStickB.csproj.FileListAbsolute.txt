@@ -1,0 +1,29 @@
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.csprojResolveAssemblyReference.cache
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\MainWindow.baml
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\MainWindow.g.cs
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\App.g.cs
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\XBoxJoyStickB_MarkupCompile.cache
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.g.resources
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.Properties.Resources.resources
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.csproj.GenerateResource.Cache
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\bin\Debug\XBoxJoyStickB.exe.config
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\bin\Debug\XBoxJoyStickB.exe
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\bin\Debug\XBoxJoyStickB.pdb
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.exe
+C:\Program Files\Mill1Ax64_VS2012_COM\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.pdb
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.csprojResolveAssemblyReference.cache
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\MainWindow.baml
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\MainWindow.g.cs
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\App.g.cs
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\XBoxJoyStickB_MarkupCompile.cache
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.g.resources
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.Properties.Resources.resources
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.csproj.GenerateResource.Cache
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.exe
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\obj\Debug\XBoxJoyStickB.pdb
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\bin\Debug\XBoxJoyStickB.exe.config
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\bin\Debug\XBoxJoyStickB.exe
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\bin\Debug\XBoxJoyStickB.pdb
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\bin\Debug\KMotion_dotNet.dll
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\bin\Debug\KMotion_dotNet.pdb
+C:\KMotion433x64\PC VCS Examples\XBoxJoyStickB\bin\Debug\KMotion_dotNet.xml
